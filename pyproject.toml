@@ -1,6 +1,6 @@
 [project]
 name = "flight-duty-period"
-version = "0.1.0"
+version = "0.1.1"
 description = "Calculates flight crew duty periods and rest requirements per aviation regulations."
 requires-python = ">=3.10"
 dependencies = []
